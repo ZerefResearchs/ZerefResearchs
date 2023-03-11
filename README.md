@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerefresearchs&show_icons=true&locale=en" alt="zerefresearchs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerefresearchs&" alt="zerefresearchs" /></p>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31son6ewtjqn5vk5fgk4quflftdm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31son6ewtjqn5vk5fgk4quflftdm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
