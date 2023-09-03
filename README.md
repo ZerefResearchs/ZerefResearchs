@@ -13,7 +13,7 @@
 
 - 📫 Contact me at **abhisheknegi117@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_i5DfrXaXD9L6tNU9YPtpIFt5NsCjpl-/view?usp=sharing](https://drive.google.com/file/d/1_i5DfrXaXD9L6tNU9YPtpIFt5NsCjpl-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_i5DfrXaXD9L6tNU9YPtpIFt5NsCjpl-/view?usp=sharing](https://drive.google.com/file/d/1UlXQ2whPYXLGOAInNEOJo_iRM3YTO5hC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
