@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **abhisheknegi117@gmail.com**
+- 📫 Contact me at **abhisheknegi117@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_i5DfrXaXD9L6tNU9YPtpIFt5NsCjpl-/view?usp=sharing](https://drive.google.com/file/d/1_i5DfrXaXD9L6tNU9YPtpIFt5NsCjpl-/view?usp=sharing)
 
