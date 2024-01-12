@@ -1,6 +1,6 @@
 ![logo](https://i.pinimg.com/originals/80/6a/6a/806a6ab613d15347d42a296f6da82680.gif)
 <h1 align="center">Hi 👋, I'm Abhishek Singh Negi</h1>
-<h3 align="center">A passionate Full-Stack Web Developer and SDE</h3>
+<h3 align="center">A passionate Front-End Web Developer and UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ac/73/5e/ac735e36cd4aa0b84fceec0c12713598.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerefresearchs&label=Profile%20views&color=0e75b6&style=flat" alt="zerefresearchs" /> </p>
